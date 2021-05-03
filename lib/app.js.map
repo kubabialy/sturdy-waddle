@@ -1,0 +1,1 @@
+{"version":3,"sources":["/Users/kubabialy/Work/NodeJS/sturdy-waddle/src/index.ts"],"sourcesContent":["console.log(process.argv);\n"],"names":[],"mappings":"AAAA,OAAO,CAAC,GAAG,CAAC,OAAO,CAAC,IAAI"}
